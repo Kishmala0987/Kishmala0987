@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kishmala0987
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Webpack
+- 🌱 I’m currently learning Web Development
 - ⚡ Fun fact: It works on my machine 👀
 
 <!---
